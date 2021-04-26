@@ -1,0 +1,49 @@
+#element{
+    background-color: red;
+    width: 300px;
+    height: 300px;
+   position:relative;
+    
+}
+#element2{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+
+}
+#element3{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+   
+}
+#element4{
+    background-color: purple;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+   
+}
+#element5{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    bottom: 0px;
+   
+}
+#element6{
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+   
+}

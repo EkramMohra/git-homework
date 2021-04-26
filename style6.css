@@ -1,0 +1,121 @@
+/* #e1{
+    width:215px;
+    height: 90px;
+    background-color: black;
+    position: relative;
+    
+    }
+    #e2{
+        width: 50px;
+        height: 42px;
+        background-color: #66320E;
+        left:0px;
+        top:0px;
+        position: absolute;
+    }
+    #e3{
+        width: 50px;
+        height: 42px;
+        background-color: #66320E;
+        top:0px;
+        left: 55px;
+        position: absolute;
+    }
+    #e4{
+        width: 50px;
+        height: 42px;
+        background-color:#66320E;
+        left:110px;
+        top:0px;
+        position: absolute;
+       
+    }
+    #e5{
+        width: 215px;
+        height: 2px;
+        background-color: rgb(139, 6, 6);
+        top:44px;
+     
+        position: absolute;
+       
+       
+    }
+    #e6{
+        width: 50px;
+        height: 42px;
+        background-color: #66320E;
+        bottom: 0px;
+        left:0px;
+        position: absolute;
+     
+  
+    }
+    #e7{
+        width: 50px;
+        height: 42px;
+        background-color: #66320E;
+        bottom: 0px;
+        left:55px;
+        position: absolute;
+        
+    }
+    #e8{
+        width: 50px;
+        height: 42px;
+        background-color: #66320E;
+        bottom: 0px;
+        left:110px;
+        position: absolute;
+        
+    }
+
+
+    #e9{
+        width: 50px;
+        height: 42px;
+        background-color: #66320E;
+        top: 0px;
+        left:165px;
+        position: absolute;
+        
+    }
+
+
+ */
+
+ #chocolate {
+    background-color: black;
+    display: inline-block;
+    padding: 4px;
+  }
+  #middle {
+    background-color: darkred;
+    height: 5px;
+    width: 385px;
+    margin-top: 6px;
+    margin-bottom: 4px;
+  }
+  .block {
+    background-color: #66320E;
+    width: 90px;
+    height: 90px;
+    margin: 3px;
+  }
+  #block-1 {
+    float: right;
+  }
+  #block-2 {
+    float: right;
+  }
+  #block-3 {
+    float: right;
+  }
+  #block-5 {
+    float: left;
+  }
+  #block-6 {
+    float: left;
+  }
+  #block-7 {
+    float: left;
+  }
